@@ -11,7 +11,7 @@ print ('Subtraction: ', a - b)
 print ('Multiplication: ', a * b)  
 
 # division
-print ('Division: ', a / b) 
+print ('Division: ', c*d) 
 
 # floor division
 print ('Floor Division: ', a // b)
